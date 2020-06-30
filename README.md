@@ -1,7 +1,7 @@
 	mainboard: asrock x570m
 	CPU: Ryzen7 2700x
 	GPU: AMD590
-	SSD: Sumsung 860EVO
-	Mem: 16G 3200
+	SSD: NVME UNSPC512KMM
+	Mem: 8G 3200 * 2
 	MACOS: 10.15.5
-	OPENCORE 
+	OPENCORE: 0.5.8
