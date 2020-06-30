@@ -17,3 +17,5 @@
 ***
 ![Macos](PIC/cinebenchR20.png)  
 `CineBench R20`  
+***
+	Email:zhoujian78@sina.com
