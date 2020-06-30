@@ -8,9 +8,12 @@
 ***
 ![Macos](PIC/macos.png)  
 MacOS  
-![Macos](PIC/AMDCPU.png)
+***
+![Macos](PIC/AMDCPU.png)  
 AMDCPUPowerManager  
-![Macos](PIC/istatmenu.png)
+***
+![Macos](PIC/istatmenu.png)  
 Istatmenu info  
-![Macos](PIC/cinebenchR20.png)
+***
+![Macos](PIC/cinebenchR20.png)  
 CineBench R20  
