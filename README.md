@@ -6,4 +6,4 @@
 	MACOS: 10.15.5
 	OPENCORE: 0.5.8
 ***
-![Macos](/PIC/macOS.png "macOS")
+![Macos](PIC/macos.png)
