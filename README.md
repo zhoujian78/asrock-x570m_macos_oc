@@ -6,4 +6,11 @@
 	MACOS: 10.15.5
 	OPENCORE: 0.5.8
 ***
-![Macos](PIC/macos.png)
+![Macos](PIC/macos.png)  
+MacOS  
+![Macos](PIC/AMDCPU.png)
+AMDCPUPowerManager  
+![Macos](PIC/istatmenu.png)
+Istatmenu info  
+![Macos](PIC/cinebenchR20.png)
+CineBench R20  
