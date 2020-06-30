@@ -1,6 +1,6 @@
 	mainboard: asrock x570m
 	CPU: Ryzen7 2700x
-	GPU: AMD590
+	GPU: AMD RX590
 	SSD: NVME UNSPC512KMM
 	Mem: 8G 3200 * 2
 	MACOS: 10.15.5
