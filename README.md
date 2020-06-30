@@ -5,3 +5,5 @@
 	Mem: 8G 3200 * 2
 	MACOS: 10.15.5
 	OPENCORE: 0.5.8
+***
+![Macos](/PIC/macOS.png "macOS")
