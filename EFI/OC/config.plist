@@ -1514,7 +1514,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C020091004NJG36AD</string>
+			<string>C020091004NFFFFFF</string>
 			<key>ROM</key>
 			<data>ESIzRFVm</data>
 			<key>SpoofVendor</key>
@@ -1522,9 +1522,9 @@
 			<key>SystemProductName</key>
 			<string>iMacPro1,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02CC0NSHX87</string>
+			<string>C02CC0FFFFFF</string>
 			<key>SystemUUID</key>
-			<string>27E2B3EB-46F7-4538-A840-FB0C573CB743</string>
+			<string>27E2B3EB-46F7-4538-A840-FFFFFFFFFFFF</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
