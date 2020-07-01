@@ -18,4 +18,6 @@
 ![Macos](PIC/cinebenchR20.png)  
 `CineBench R20`  
 ***
+  Please `remember` to change `PlatformInfo` in config.plist
+***
 	Email:zhoujian78@sina.com
