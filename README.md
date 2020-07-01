@@ -19,6 +19,8 @@
 `CineBench R20`  
 ***
   Please `remember` to change `PlatformInfo` in config.plist  with [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)  
+	![Macos](PIC/PlatformInfo.png)  
+	
 	`MLB`  
 	`SystemSerialNumber`  
 	`SystemUUID`  
