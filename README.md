@@ -19,8 +19,8 @@
 `CineBench R20`  
 ***
   Please `remember` to change `PlatformInfo` in config.plist  
-	`MLB`
-	`SystemSerialNumber`
-	`SystemUUID`
+	`MLB`  
+	`SystemSerialNumber`  
+	`SystemUUID`  
 ***
 	Email:zhoujian78@sina.com
