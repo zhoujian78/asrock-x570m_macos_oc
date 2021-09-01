@@ -1,4 +1,4 @@
-	mainboard: asrock x570m1
+	mainboard: asrock 1x570m
 	CPU: Ryzen7 2700x
 	GPU: AMD RX590
 	SSD: NVME UNSPC512KMM
