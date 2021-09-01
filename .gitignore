@@ -1,9 +1,8 @@
 
 .DS_Store
-.idea/asrock-x570m_macos_oc.iml
-.idea/inspectionProfiles/profiles_settings.xml
-.idea/misc.xml
-.idea/modules.xml
+.idea/.name
 .idea/vcs.xml
 .idea/workspace.xml
-.idea/.name
+EFI/.DS_Store
+EFI/OC/.DS_Store
+EFI/OC/Kexts/.DS_Store
